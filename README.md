@@ -1,4 +1,4 @@
-# vue-universal-library
+# vue-demi-library
 
 ## Project setup
 ```

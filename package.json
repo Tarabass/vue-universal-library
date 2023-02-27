@@ -1,7 +1,8 @@
 {
   "name": "vue-universal-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
+  "files": ["dist"],
   "main": "dist/vue-universal-library.cjs.min.js",
   "browser": "dist/vue-universal-library.esm.min.js",
   "unpkg": "dist/vue-universal-library.global.min.js",

@@ -1,5 +1,10 @@
 # vue-universal-library
 
+This is the repository used in creating sample Vue universal component library. 
+See: https://dev.to/bvterrcvp/create-a-universal-vue-component-library-with-vue-demi-and-tailwind-css-14a5
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup

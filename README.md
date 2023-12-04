@@ -1,7 +1,11 @@
 # vue-universal-library
 
 This is the repository used in creating sample Vue universal component library. 
-See: https://dev.to/bvterrcvp/create-a-universal-vue-component-library-with-vue-demi-and-tailwind-css-14a5
+
+See:
+
+* https://dev.to/bvterrcvp/create-a-universal-vue-component-library-with-vue-demi-and-tailwind-css-14a5
+* https://medium.com/@bvttercvp/create-a-universal-vue-component-library-with-vue-demi-and-tailwind-css-447ce3e508fa
 
 
 
